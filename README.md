@@ -3,7 +3,4 @@
 ## Proje Hakkında
 Projede temel olarak not alma uygulamasıdır. Sisteme kayıt olduktan sonra not eklme, güncelleme, silme işlemleri ve profil güncelleme ve silme işlemleri yapabilirsiniz.
 
-
-
-
-
+![project](https://github.com/talhaalkan/NoteApp/assets/105417379/269437d1-46d0-4b4f-8980-3b15ea2d1497)
